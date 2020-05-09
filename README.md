@@ -2,7 +2,7 @@
 
 <span class="badge-patreon"><a href="https://www.patreon.com/michaelgangolf" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
-Basic module for loading SVG files on Android.
+Basic module for loading SVG files on Android using Sharp (https://github.com/Pixplicity/sharp).
 
 ## Requirements
 
@@ -82,3 +82,8 @@ index.xml
 </Alloy>
 
 ```
+
+
+## Author
+
+- Michael Gangolf ([@MichaelGangolf](https://twitter.com/MichaelGangolf) / [Web](http://migaweb.de))
