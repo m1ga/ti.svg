@@ -1,8 +1,12 @@
-# Appcelerator Titanium - SVG Module (Android)
+:warning: currently not working - check https://fromzerotoapp.com/?s=svg for alternatives :warning:
+
+# Titanium SDK - SVG Module (Android)
 
 <span class="badge-buymeacoffee"><a href="https://www.buymeacoffee.com/miga" title="donate"><img src="https://img.shields.io/badge/buy%20me%20a%20coke-donate-orange.svg" alt="Buy Me A Coke donate button" /></a></span>
 
 Basic module for loading SVG files on Android using Sharp (https://github.com/Pixplicity/sharp).
+
+:warning: currently not working - check https://fromzerotoapp.com/?s=svg for alternatives :warning:
 
 ## Requirements
 
